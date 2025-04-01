@@ -136,3 +136,7 @@ li img {
     height: 20px;
     cursor: pointer;
 }
+.checked {
+    text-decoration: line-through;
+    color: gray;
+}
